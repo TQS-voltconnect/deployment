@@ -1,6 +1,8 @@
 [submodule "frontend"]
-	path = frontend
-	url = https://github.com/TQS-voltconnect/frontend.git
+    path = frontend
+    url = https://github.com/TQS-voltconnect/frontend.git
+    branch = deploy
 [submodule "backend"]
-	path = backend
-	url = https://github.com/TQS-voltconnect/backend.git
+    path = backend
+    url = https://github.com/TQS-voltconnect/backend.git
+    branch = deploy
