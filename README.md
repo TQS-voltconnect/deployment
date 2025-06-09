@@ -13,10 +13,9 @@ This project aims to develop an MVP for an electric vehicle (EV) charging platfo
 
 
 ## Project Links
-
-We will fill this section with links to the project documentation, including the project proposal, sprint planning, and other relevant documents.
 | Resource                  | Link                                                                 |
 |---------------------------|----------------------------------------------------------------------|
+| Website | http://deti-tqs-04.ua.pt|
 | Project Backlog         | https://tqs-voltconnect.atlassian.net/jira/software/projects/VOLT/boards/1    |
 | API Documentation      | http://deti-tqs-04.ua.pt/swagger-ui/index.html#/         |
 | Static Analysis (Sonar) Frontend| https://sonarcloud.io/project/overview?id=TQS-voltconnect_frontend       |
